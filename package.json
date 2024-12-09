@@ -1,0 +1,25 @@
+{
+  "name": "rw-g-t-s-h",
+  "displayName": "redwood generator templates syntax highlighter",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "template",
+      "aliases": ["template", "template"],
+      "extensions": ["template"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "template",
+      "scopeName": "source.template",
+      "path": "./syntaxes/template.tmLanguage.json"
+    }]
+  }
+}

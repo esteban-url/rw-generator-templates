@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "template",
+  "patterns": [
+    {
+      "begin": "<%",
+      "end": "%>",
+      "patterns": [
+        {
+          "include": "source.js"
+        }
+      ]
+    }
+  ],
+
+  "repository": {
+    "keywords": {
+      "patterns": [
+        {
+          "name": "keyword.control.template",
+          "match": "\\b(if|while|for|return)\\b"
+        }
+      ]
+    },
+    "strings": {
+      "name": "string.quoted.double.template",
+      "begin": "\"",
+      "end": "\"",
+      "patterns": [
+        {
+          "name": "constant.character.escape.template",
+          "match": "\\\\."
+        }
+      ]
+    }
+  },
+  "scopeName": "source.template"
+}
