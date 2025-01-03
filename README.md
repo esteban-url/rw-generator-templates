@@ -6,7 +6,13 @@ This is an experimental extension for Visual Studio Code that provides a templat
 
 - Syntax highlighting for redwoodjs generator templates
 
-![Screenshot of a redwood template file with syntax highlighting in vs code](https://github.com/esteban-url/rw-generator-templates/raw/main/screenshot.png)
+### With the extension: 🔮
+
+![Screenshot of a redwood template file with syntax highlighting in vs code](https://github.com/esteban-url/rw-generator-templates/raw/main/extension.png)
+
+### Without the extension: 😖
+
+![Screenshot of a redwood template file without the extension](https://github.com/esteban-url/rw-generator-templates/raw/main/without.png)
 
 ## Requirements
 
