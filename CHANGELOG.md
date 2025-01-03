@@ -2,6 +2,12 @@
 
 All notable changes to the "rw-generator-template" extension will be documented in this file.
 
+## [0.0.3] - 2021-07-25
+
+### Removed
+
+- unnecessary image files from the extension itself
+
 ## [0.0.2] - 2021-07-25
 
 ### Added
