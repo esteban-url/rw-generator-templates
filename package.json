@@ -8,7 +8,7 @@
     "email": "14810250+esteban-url@users.noreply.github.com"
   },
   "description": "Syntax highlighting for redwoodjs generator templates",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/esteban-url/rw-generator-templates"
