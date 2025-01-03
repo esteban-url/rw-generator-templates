@@ -1,8 +1,16 @@
 {
   "name": "rw-generator-templates",
-  "displayName": "redwood generator templates syntax highlighter",
-  "description": "",
+  "displayName": "RW templates syntax highlighter",
+  "author": {
+    "name": "Esteban Rojas",
+    "email": "14810250+esteban-url@users.noreply.github.com"
+  },
+  "description": "Syntax highlighting for redwoodjs generator templates",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esteban-url/rw-generator-templates"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
