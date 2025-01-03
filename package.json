@@ -1,6 +1,8 @@
 {
   "name": "rw-generator-templates",
   "displayName": "RW templates syntax highlighter",
+  "publisher": "esteban-url",
+  "icon": "icon.png",
   "author": {
     "name": "Esteban Rojas",
     "email": "14810250+esteban-url@users.noreply.github.com"
