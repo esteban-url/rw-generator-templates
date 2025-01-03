@@ -5,14 +5,17 @@
     {
       "begin": "<%",
       "end": "%>",
+      "name": "meta.template.embedded",
       "patterns": [
+        {
+          "name": "source.ts"
+        },
         {
           "include": "source.js"
         }
       ]
     }
   ],
-
   "repository": {
     "keywords": {
       "patterns": [
